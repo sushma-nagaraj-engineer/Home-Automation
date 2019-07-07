@@ -1,0 +1,5 @@
+// Command to generate object file using GCC Compiler
+gcc -o Main_PWM Main_PWM.c -l wiringPi
+
+//command to obtain the executable
+sudo ./Main_PWM 
